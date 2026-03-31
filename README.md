@@ -32,6 +32,7 @@ A powerful backend API for managing a SA-MP (San Andreas Multiplayer) server. Bu
 ```bash
 git clone https://github.com/wiisanenty59-star/SA-MP-Server-Manager.git
 cd SA-MP-Server-Manager
+cd backend
 pip install -r requirements.txt
 
 Create a .env or configure environment variables:
